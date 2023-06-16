@@ -13,7 +13,7 @@ export function Tabla ({  datos, cambiarEstado }) {
     <table className='border-solid m-6 w-[90%]'>
       <thead className='bg-blue-600 text-white text-[15px]' >
         <tr>
-          <th>Nombre</th>
+          <th>Nombre Completo</th>
           <th>Carrera</th>
           <th>Estado</th>
         </tr>
